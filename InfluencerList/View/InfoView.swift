@@ -23,6 +23,7 @@ struct InfoView: View {
                     Text(text)
                         .foregroundColor(.white)
                         .bold()
+                        .font(.custom("Roboto-Regular",size: 18))
                 }
                 Spacer()
             }
