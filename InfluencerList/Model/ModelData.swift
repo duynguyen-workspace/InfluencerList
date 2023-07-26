@@ -6,6 +6,7 @@
 //
 
 import Foundation
+import CoreLocation
 
 var influencers = decodeJsonFromJsonFile(jsonFileName: "influencers.json")
 
