@@ -14,6 +14,19 @@
 		9815A85E2A70252100224742 /* InfluencerListTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9815A85D2A70252100224742 /* InfluencerListTests.swift */; };
 		9815A8682A70252100224742 /* InfluencerListUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9815A8672A70252100224742 /* InfluencerListUITests.swift */; };
 		9815A86A2A70252100224742 /* InfluencerListUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9815A8692A70252100224742 /* InfluencerListUITestsLaunchTests.swift */; };
+		9815A8772A70314700224742 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9815A8762A70314700224742 /* CircleImage.swift */; };
+		9815A8792A7034BD00224742 /* InfoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9815A8782A7034BD00224742 /* InfoView.swift */; };
+		9815A87D2A70385600224742 /* BannerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9815A87C2A70385600224742 /* BannerView.swift */; };
+		9815A8802A703E4F00224742 /* HeroPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9815A87F2A703E4F00224742 /* HeroPage.swift */; };
+		9815A8832A70C33800224742 /* Influencer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9815A8822A70C33800224742 /* Influencer.swift */; };
+		9815A8852A70C37900224742 /* ModelData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9815A8842A70C37900224742 /* ModelData.swift */; };
+		9815A8882A70C40A00224742 /* InfluencerRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9815A8872A70C40A00224742 /* InfluencerRow.swift */; };
+		9815A88B2A70C58400224742 /* InfluencerList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9815A88A2A70C58400224742 /* InfluencerList.swift */; };
+		9815A88D2A70C92100224742 /* InfluencerCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9815A88C2A70C92100224742 /* InfluencerCard.swift */; };
+		9815A88F2A70DC1500224742 /* WelcomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9815A88E2A70DC1500224742 /* WelcomeView.swift */; };
+		9815A8912A70DC4000224742 /* GreetingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9815A8902A70DC4000224742 /* GreetingView.swift */; };
+		9815A8932A70DC6B00224742 /* CircleLayerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9815A8922A70DC6B00224742 /* CircleLayerView.swift */; };
+		9815A8952A70DF8C00224742 /* influencers.json in Resources */ = {isa = PBXBuildFile; fileRef = 9815A8942A70DF8C00224742 /* influencers.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +57,19 @@
 		9815A8632A70252100224742 /* InfluencerListUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = InfluencerListUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9815A8672A70252100224742 /* InfluencerListUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfluencerListUITests.swift; sourceTree = "<group>"; };
 		9815A8692A70252100224742 /* InfluencerListUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfluencerListUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		9815A8762A70314700224742 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
+		9815A8782A7034BD00224742 /* InfoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfoView.swift; sourceTree = "<group>"; };
+		9815A87C2A70385600224742 /* BannerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BannerView.swift; sourceTree = "<group>"; };
+		9815A87F2A703E4F00224742 /* HeroPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeroPage.swift; sourceTree = "<group>"; };
+		9815A8822A70C33800224742 /* Influencer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Influencer.swift; sourceTree = "<group>"; };
+		9815A8842A70C37900224742 /* ModelData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelData.swift; sourceTree = "<group>"; };
+		9815A8872A70C40A00224742 /* InfluencerRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfluencerRow.swift; sourceTree = "<group>"; };
+		9815A88A2A70C58400224742 /* InfluencerList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfluencerList.swift; sourceTree = "<group>"; };
+		9815A88C2A70C92100224742 /* InfluencerCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfluencerCard.swift; sourceTree = "<group>"; };
+		9815A88E2A70DC1500224742 /* WelcomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WelcomeView.swift; sourceTree = "<group>"; };
+		9815A8902A70DC4000224742 /* GreetingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GreetingView.swift; sourceTree = "<group>"; };
+		9815A8922A70DC6B00224742 /* CircleLayerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleLayerView.swift; sourceTree = "<group>"; };
+		9815A8942A70DF8C00224742 /* influencers.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = influencers.json; path = "../../../SSET-Contact-List-iOS/ContactList/Model/influencers.json"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -95,7 +121,8 @@
 			isa = PBXGroup;
 			children = (
 				9815A84C2A70251F00224742 /* InfluencerListApp.swift */,
-				9815A84E2A70251F00224742 /* ContentView.swift */,
+				9815A87B2A7035BF00224742 /* View */,
+				9815A8812A70C32300224742 /* Model */,
 				9815A8502A70252000224742 /* Assets.xcassets */,
 				9815A8522A70252000224742 /* Preview Content */,
 			);
@@ -125,6 +152,42 @@
 				9815A8692A70252100224742 /* InfluencerListUITestsLaunchTests.swift */,
 			);
 			path = InfluencerListUITests;
+			sourceTree = "<group>";
+		};
+		9815A87B2A7035BF00224742 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				9815A8962A70E72200224742 /* Welcome */,
+				9815A84E2A70251F00224742 /* ContentView.swift */,
+				9815A8762A70314700224742 /* CircleImage.swift */,
+				9815A8782A7034BD00224742 /* InfoView.swift */,
+				9815A87C2A70385600224742 /* BannerView.swift */,
+				9815A87F2A703E4F00224742 /* HeroPage.swift */,
+				9815A8872A70C40A00224742 /* InfluencerRow.swift */,
+				9815A88A2A70C58400224742 /* InfluencerList.swift */,
+				9815A88C2A70C92100224742 /* InfluencerCard.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		9815A8812A70C32300224742 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				9815A8942A70DF8C00224742 /* influencers.json */,
+				9815A8822A70C33800224742 /* Influencer.swift */,
+				9815A8842A70C37900224742 /* ModelData.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		9815A8962A70E72200224742 /* Welcome */ = {
+			isa = PBXGroup;
+			children = (
+				9815A88E2A70DC1500224742 /* WelcomeView.swift */,
+				9815A8902A70DC4000224742 /* GreetingView.swift */,
+				9815A8922A70DC6B00224742 /* CircleLayerView.swift */,
+			);
+			path = Welcome;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -232,6 +295,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9815A8542A70252000224742 /* Preview Assets.xcassets in Resources */,
+				9815A8952A70DF8C00224742 /* influencers.json in Resources */,
 				9815A8512A70252000224742 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -257,8 +321,20 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9815A8912A70DC4000224742 /* GreetingView.swift in Sources */,
+				9815A88D2A70C92100224742 /* InfluencerCard.swift in Sources */,
+				9815A8882A70C40A00224742 /* InfluencerRow.swift in Sources */,
+				9815A8802A703E4F00224742 /* HeroPage.swift in Sources */,
+				9815A88B2A70C58400224742 /* InfluencerList.swift in Sources */,
+				9815A87D2A70385600224742 /* BannerView.swift in Sources */,
+				9815A8792A7034BD00224742 /* InfoView.swift in Sources */,
 				9815A84F2A70251F00224742 /* ContentView.swift in Sources */,
 				9815A84D2A70251F00224742 /* InfluencerListApp.swift in Sources */,
+				9815A8852A70C37900224742 /* ModelData.swift in Sources */,
+				9815A8932A70DC6B00224742 /* CircleLayerView.swift in Sources */,
+				9815A88F2A70DC1500224742 /* WelcomeView.swift in Sources */,
+				9815A8772A70314700224742 /* CircleImage.swift in Sources */,
+				9815A8832A70C33800224742 /* Influencer.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

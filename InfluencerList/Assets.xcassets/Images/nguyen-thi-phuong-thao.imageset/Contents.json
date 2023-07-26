@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "nguyen-thi-phuong-thao.jpeg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "nguyen-thi-phuong-thao@2x.jpeg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "nguyen-thi-phuong-thao@3x.jpeg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
