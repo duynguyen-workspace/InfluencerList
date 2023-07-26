@@ -31,6 +31,9 @@ struct InfluencerCard: View {
                     InfoView(icon: "envelope.fill", text: influencer.email, url:"mailto:\(influencer.email)")
                         .padding(.bottom, -20)
                     InfoView(icon: "phone.fill", text: influencer.phone, url:"tel:\(influencer.phone)")
+                    MapView(coordinate: influencer.locationCoordinate)
+                        .frame(height: 250)
+                        .padding(.all)
                 }
             }
         }

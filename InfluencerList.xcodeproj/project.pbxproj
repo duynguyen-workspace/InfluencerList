@@ -27,6 +27,7 @@
 		9815A8912A70DC4000224742 /* GreetingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9815A8902A70DC4000224742 /* GreetingView.swift */; };
 		9815A8932A70DC6B00224742 /* CircleLayerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9815A8922A70DC6B00224742 /* CircleLayerView.swift */; };
 		9815A8952A70DF8C00224742 /* influencers.json in Resources */ = {isa = PBXBuildFile; fileRef = 9815A8942A70DF8C00224742 /* influencers.json */; };
+		9815A8982A70ED5A00224742 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9815A8972A70ED5A00224742 /* MapView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -70,6 +71,7 @@
 		9815A8902A70DC4000224742 /* GreetingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GreetingView.swift; sourceTree = "<group>"; };
 		9815A8922A70DC6B00224742 /* CircleLayerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleLayerView.swift; sourceTree = "<group>"; };
 		9815A8942A70DF8C00224742 /* influencers.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = influencers.json; path = "../../../SSET-Contact-List-iOS/ContactList/Model/influencers.json"; sourceTree = "<group>"; };
+		9815A8972A70ED5A00224742 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -166,6 +168,7 @@
 				9815A8872A70C40A00224742 /* InfluencerRow.swift */,
 				9815A88A2A70C58400224742 /* InfluencerList.swift */,
 				9815A88C2A70C92100224742 /* InfluencerCard.swift */,
+				9815A8972A70ED5A00224742 /* MapView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -328,6 +331,7 @@
 				9815A88B2A70C58400224742 /* InfluencerList.swift in Sources */,
 				9815A87D2A70385600224742 /* BannerView.swift in Sources */,
 				9815A8792A7034BD00224742 /* InfoView.swift in Sources */,
+				9815A8982A70ED5A00224742 /* MapView.swift in Sources */,
 				9815A84F2A70251F00224742 /* ContentView.swift in Sources */,
 				9815A84D2A70251F00224742 /* InfluencerListApp.swift in Sources */,
 				9815A8852A70C37900224742 /* ModelData.swift in Sources */,
